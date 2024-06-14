@@ -1,0 +1,16 @@
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\FTP_server.MainForm.resources
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\FTP_server.csproj.GenerateResource.cache
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\FTP_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\FTP_server.AssemblyInfoInputs.cache
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\FTP_server.AssemblyInfo.cs
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\FTP_server.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\KSIS\lab4\FTP_server\bin\Debug\net8.0-windows\FTP_server.exe
+C:\MYSTUFF\KSIS\lab4\FTP_server\bin\Debug\net8.0-windows\FTP_server.deps.json
+C:\MYSTUFF\KSIS\lab4\FTP_server\bin\Debug\net8.0-windows\FTP_server.runtimeconfig.json
+C:\MYSTUFF\KSIS\lab4\FTP_server\bin\Debug\net8.0-windows\FTP_server.dll
+C:\MYSTUFF\KSIS\lab4\FTP_server\bin\Debug\net8.0-windows\FTP_server.pdb
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\FTP_server.dll
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\refint\FTP_server.dll
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\FTP_server.pdb
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\FTP_server.genruntimeconfig.cache
+C:\MYSTUFF\KSIS\lab4\FTP_server\obj\Debug\net8.0-windows\ref\FTP_server.dll
