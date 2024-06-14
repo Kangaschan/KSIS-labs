@@ -1,0 +1,7 @@
+C:\MYSTUFF\KSIS\lab3\client\bin\Debug\client.exe.config
+C:\MYSTUFF\KSIS\lab3\client\bin\Debug\client.exe
+C:\MYSTUFF\KSIS\lab3\client\bin\Debug\client.pdb
+C:\MYSTUFF\KSIS\lab3\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\MYSTUFF\KSIS\lab3\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\KSIS\lab3\client\obj\Debug\client.exe
+C:\MYSTUFF\KSIS\lab3\client\obj\Debug\client.pdb
